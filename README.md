@@ -7,9 +7,9 @@
   </ul>
 </div>
 <!--- snake -->
-<div align="center">
-  <img src="https://github.com/amanpoddar-dev12/amanpoddar-dev12/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
