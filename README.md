@@ -19,16 +19,6 @@
 <!--Intro start-->
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=amanpoddar-dev12&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img title="🔥 Get streak stats for your profile" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=amanpoddar-dev12&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <ul>
 <li>
