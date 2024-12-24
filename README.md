@@ -27,7 +27,7 @@
 <p>🌱 I’m currently learning <strong>full stack development for scalable web apps.</strong></p>
 </li>
 <li>
-<p>☁️ I’ve a keen interest in Frontend . So, I’m learning <strong>TYPESCRIPT</strong></p>
+<p>☁️ I’ve a keen interest in Frontend. So, I’m learning <strong>TYPESCRIPT</strong></p>
 </li>
 
 <li>
